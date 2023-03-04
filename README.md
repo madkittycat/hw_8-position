@@ -1,4 +1,2 @@
-# hw_9-position
-# hw_9-position
-# hw8
-# hw_8
+Home work 8
+Positions
